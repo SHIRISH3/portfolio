@@ -27,7 +27,7 @@ I enjoy solving real-world problems through data and technology, and continuousl
 
 ## 💼 Experience
 
-### 🔹 Python Software Developer (Intern)
+### 🔹 Python Software Developer 
 **Apr – Oct 2024** | Python, Django  
 - Developed a complete Learning Management System (LMS) platform with Django.
 - Built 15+ secure REST APIs and integrated responsive UI with Bootstrap.
@@ -55,6 +55,8 @@ I enjoy solving real-world problems through data and technology, and continuousl
 - **UniCompiler** (Jul – Aug 2022)  
   ➤ [UniCompiler Projects](https://github.com/SHIRISH3/UniCompiler-internship)
 
+
+### 🔹 Python Internship
 - **Sciffer Analytics** (Dec 2021 – Mar 2022)  
   Annotated 1000+ images using YOLO for object detection. Improved accuracy by 23%.
 
